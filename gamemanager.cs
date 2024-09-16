@@ -1,1 +1,2 @@
 karakter hareketleri
+bakıp görecez nolacak
