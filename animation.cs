@@ -1,1 +1,2 @@
 animasyonlar planlandı
+tamamlandı
